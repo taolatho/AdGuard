@@ -1,2 +1,5 @@
+! Title: New Text Document
+! Version: 1.0
+!
 ! View anonymous stories on Instagram
 ||instagram.com/stories/reel/seen
