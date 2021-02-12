@@ -1,0 +1,30 @@
+! Title: {Facebook & Messenger} - Block chat indicator
+! Version: 1.0
+||edge-chat.facebook.com/*
+||0-edge-chat.facebook.com/*
+||1-edge-chat.facebook.com/*
+||2-edge-chat.facebook.com/*
+||3-edge-chat.facebook.com/*
+||4-edge-chat.facebook.com/*
+||5-edge-chat.facebook.com/*
+||6-edge-chat.facebook.com/*
+||7-edge-chat.facebook.com/*
+||8-edge-chat.facebook.com/*
+||9-edge-chat.facebook.com/*
+||www.facebook.com/ajax/chat/*
+||www.facebook.com/chat/*
+||www.facebook.com/ajax/presence/*
+||edge-chat.messenger.com/*
+||0-edge-chat.messenger.com/*
+||1-edge-chat.messenger.com/*
+||2-edge-chat.messenger.com/*
+||3-edge-chat.messenger.com/*
+||4-edge-chat.messenger.com/*
+||5-edge-chat.messenger.com/*
+||6-edge-chat.messenger.com/*
+||7-edge-chat.messenger.com/*
+||8-edge-chat.messenger.com/*
+||9-edge-chat.messenger.com/*
+||www.messenger.com/ajax/chat/*
+||www.messenger.com/chat/*
+||www.messenger.com/ajax/presence/*

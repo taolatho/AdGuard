@@ -1,0 +1,4 @@
+! Title: {Facebook & Messenger} - Block typing indicator
+! Version: 1.0
+||*.facebook.com/*typ.php*
+||*.messenger.com/*typ.php*

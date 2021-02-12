@@ -1,0 +1,6 @@
+! Title: {Facebook & Messenger} - Block chat receipts
+! Version: 1.0
+||*.facebook.com/*delivery_receipts*
+||*.messenger.com/*delivery_receipts*
+||*.facebook.com/*unread_threads*
+||*.messenger.com/*unread_threads*
