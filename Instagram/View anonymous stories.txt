@@ -1,0 +1,3 @@
+! Title: {Instagram} - View anonymous stories
+! Version: 1.0
+||instagram.com/stories/reel/seen

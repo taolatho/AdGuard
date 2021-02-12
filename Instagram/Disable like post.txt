@@ -1,0 +1,3 @@
+! Title: {Instagram} - Disable like post
+! Version: 1.0
+||instagram.com/*/likes/*/*
