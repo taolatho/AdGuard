@@ -1,4 +1,0 @@
-! Title: {Facebook & Messenger} - Block chat seen
-! Version: 1.0
-||*.facebook.com/*change_read_status*
-||*.messenger.com/*change_read_status*
