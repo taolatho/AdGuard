@@ -2,5 +2,6 @@
 ! Version: 1.0
 ||*.ico^$empty,important
 ||*/ico/*^$empty,important
+||*/*Favicon*^$image,empty,important
 ||*/*Favicon*.*^$image,empty,important
 ||*/*Favicon*/*^$empty,important
