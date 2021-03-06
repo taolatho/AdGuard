@@ -3,4 +3,5 @@
 ||*.ico^$empty,important
 ||*/ico/*^$empty,important
 ||*/*Favicon*^$image,empty,important
+||*/*Favicon*.*^$image,empty,important
 ||*/*Favicon*/*^$empty,important
