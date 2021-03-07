@@ -1,6 +1,7 @@
 ! Title: block Favicon
 ! Version: 1.0
 ||*.ico^$empty,important
+||*/*icon*.*^$image,empty,important
 ||*/ico/*^$empty,important
 ||*/*Favicon*^$image,empty,important
 ||*/*Favicon*.*^$image,empty,important
