@@ -1,0 +1,13 @@
+! Title: 1.txt
+! Version: 1.0
+tuoi69z.com##.adspopupleft
+tuoi69z.com##.adspopupright
+tuoi69z.com##.quangcaopc
+tuoi69z.com##section.video.container:nth-child(7) > div.row > div.col-sm-3.sidebar:last-child > center:first-child
+tuoi69z.com##section.video.container:nth-child(6) > div.row > div.col-sm-3.sidebar:last-child > center:first-child
+sieukhungz.net##.adspopupleft
+sieukhungz.net##.adspopupright
+sieukhungz.net##.quangcaopc
+sieukhungz.net##section.video.container:nth-child(4) > div.row > div.col-sm-3.sidebar:last-child > center:nth-child(2)
+sieukhungz.net##section.video.container:nth-child(5) > div.row > div.col-sm-3.sidebar:last-child > center:nth-child(2)
+sieukhungz.net###custom_html-13
