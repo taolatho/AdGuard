@@ -1,5 +1,5 @@
 ! Title: 1.txt
-! Version: 1.1
+! Version: 1.2
 tuoi69z.com##.adspopupleft
 tuoi69z.com##.adspopupright
 tuoi69z.com##.quangcaopc
@@ -22,7 +22,8 @@ sieukhungz.net###cob263512
 sieukhungz.net##section.video.container:nth-child(2)
 sieukhungz.net##section.video.container:nth-child(5) > div.row > div.col-sm-9:first-child > div.row.tonghop > div.quangcaomb:nth-child(3)
 sieukhungz.net##section.video.container:nth-child(5) > div.row > div.col-sm-9:first-child > div.row.tonghop > div.baivietlienquan.row:nth-child(8) > div.quangcaomb:nth-child(4)
-vlxx.xyz###wrapper > div:nth-child(5)
-vlxx.xyz###wrapper > footer:nth-child(7) > div:first-child
-vlxx.xyz###wrapper > footer:nth-child(8) > div:first-child
-vlxx.xyz###wrapper > footer:nth-child(11) > div:first-child
+vlxx.tube##.ff-banner, .banner-inflow
+vlxx.tube###wrapper > div:nth-child(5)
+vlxx.tube###wrapper > footer:nth-child(7) > div:first-child
+vlxx.tube###wrapper > footer:nth-child(8) > div:first-child
+vlxx.tube###wrapper > footer:nth-child(11) > div:first-child
