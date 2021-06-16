@@ -1,4 +1,5 @@
 ! Title: DuckDuckGo Tracker Radar Whitelist
-! Version: 0.3
-@@||cdn2.unrealengine.com^$image,domain=epicgames.com
-@@||yt3.ggpht.com^$image,domain=youtube.com
+! Version: 0.4
+@@||cdn2.unrealengine.com^$image,domain=epicgames.com,third-party
+@@||yt3.ggpht.com^$image,domain=youtube.com,third-party
+@@||i1.sndcdn.com^$image,domain=soundcloud.com,third-party
