@@ -189,52 +189,9 @@
 
 ##Mix ====================
 # Yahoo
-||ads.yahoo.com^
-||adserver.yahoo.com^
 
-||global.adserver.yahoo.com^
-||us.adserver.yahoo.com^
-||adspecs.yahoo.com^
-||advertising.yahoo.com^
-||analytics.yahoo.com^
-||analytics.query.yahoo.com^
-||ads.yap.yahoo.com^
-||m.yap.yahoo.com^
-||partnerads.ysm.yahoo.com^
 
 # Yandex
-||appmetrica.yandex.com^
-||redirect.appmetrica.yandex.com^
-||19534.redirect.appmetrica.yandex.com^
-||3.redirect.appmetrica.yandex.com^
-||30488.redirect.appmetrica.yandex.com^
-||4.redirect.appmetrica.yandex.com^
-||report.appmetrica.yandex.net^
-||extmaps-api.yandex.net^
-||analytics.mobile.yandex.net^
-||banners.mobile.yandex.net^
-||banners-slb.mobile.yandex.net^
-||startup.mobile.yandex.net^
-||offerwall.yandex.net^
-||adfox.yandex.ru^
-||matchid.adfox.yandex.ru^
-||adsdk.yandex.ru^
-||an.yandex.ru^
-||redirect.appmetrica.yandex.ru^
-||awaps.yandex.ru^
-||awsync.yandex.ru^
-||bs.yandex.ru^
-||bs-meta.yandex.ru^
-||clck.yandex.ru^
-||informer.yandex.ru^
-||kiks.yandex.ru^
-||grade.market.yandex.ru^
-||mc.yandex.ru^
-||metrika.yandex.ru^
-||click.sender.yandex.ru^
-||share.yandex.ru^
-||yandexadexchange.net^
-||mobile.yandexadexchange.net^
 
 ##OEM ====================
 
@@ -265,7 +222,6 @@
 ||www.cdn.ad.xiaomi.com^
 ||tracking.miui.com^
 ||sa.api.intl.miui.com^
-||tracking.miui.com^
 ||tracking.intl.miui.com^
 ||tracking.india.miui.com^
 ||tracking.rus.miui.com^
