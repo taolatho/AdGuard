@@ -1,5 +1,5 @@
 ! Title: d3Host List by d3ward
-! Version: 0.2
+! Version: 0.3
 ! Expires: 1 days
 ! Description: Simple and small list with the most popular advertising, analytics and social advertising services
 ! Homepage: https://github.com/d3ward/toolz
